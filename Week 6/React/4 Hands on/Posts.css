@@ -1,0 +1,14 @@
+.posts-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  text-align: center;
+  padding: 20px;
+}
+
+.post-box {
+  max-width: 600px;
+  margin-bottom: 20px;
+}
